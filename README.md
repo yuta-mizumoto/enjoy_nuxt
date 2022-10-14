@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # enjoy_nuxt
 for study nuxt
-=======
+
 # test-project
 
 ## Build Setup
